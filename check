@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>unix</title>
+    </head>
+    <body>
+        <div style="margin-left: 220px;margin-top: 100px;background-color: papayawhip;width: 350">
+        <img src="linus.jpg" style="margin-left: 107;width: 110px;margin-top: 30;">
+        <p style="color: blue;font-size: 20px;text-align: center"> Linus Torvalds </p>
+        <p style="text-align: center;color: black;font-size: 20px">The creator of Linux & Git</p>
+        </div>
+        <div style="margin-left: 200;clear: left;">
+            <img src="khan.jpg" style="float: left;width: 130">
+            <p style="float: left;margin-left: 70px;color: red"> sal khan</p>
+            <p style="float: left;margin-top: 100px;margin-left: -90px">salman is a founter of khan academy which has mission of providing <br> free education for anyone, anywhere</p>
+        </div>
+        <div style="clear: both">
+            <div style="background-color: darkorange;margin-left: 30px;width: 730px;height: 120px;">
+                <p style="float: left;"> ken thomsan </p>
+                <p style="clear: left;width: 80px">Designed and implemented the original unix operating system</p>
+                <div style="width: 20px;height: 20px;margin-top: 20px;color: black"> </div>
+                <p style="float:right;margin-left: 140px;text-align: center"> dennis ritchie </p>
+                <p>creater of c</p>
+            </div>
+        </div>
+        
+    </body>
+</html>
